@@ -1,2 +1,2 @@
 olá SENAI
-teste
+teste de script
